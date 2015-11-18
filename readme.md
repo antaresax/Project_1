@@ -6,3 +6,6 @@
 6. $ git commit -m " explain"
 7. $ git push origin  master or gh -pages
 
+-command-
+
+$ git rm <file name > // delete file
