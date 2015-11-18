@@ -15,6 +15,7 @@ $ git fetch
 $ git branch -a ( check branch)
 
 -branch-
+
 1. $ git branch < name>
 2. $ git brsnch
 3. $ git checkout <name>
