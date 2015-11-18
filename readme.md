@@ -4,8 +4,12 @@
 4. $  git status
 5. $ git add <file name>
 6. $ git commit -m " explain"
-7. $ git push origin  master or gh -pages
+7. $ git push origin  master or gh -pages or --all
 
 -command-
 
 $ git rm <file name > // delete file
+$ git remote -v ) check connection
+$ git pull origin ( merge and ..)
+$ git fetch 
+$ git branch -a ( check branch)
