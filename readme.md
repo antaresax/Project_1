@@ -1,10 +1,11 @@
 1. $  mkfdir <folder name> 
 2. $ git remote add origin <adress> - git remote rm origin 
-3. $  git init
-4. $  git status
-5. $ git add <file name>
-6. $ git commit -m " explain"
-7. $ git push origin  master or gh -pages or --all
+3. $  git init 
+4. git clone <adress>
+5. $  git status
+6. $ git add <file name>or git add *
+7. $ git commit -m " explain"
+8. $ git push origin  master or gh -pages or --all
 
 -command-
 
